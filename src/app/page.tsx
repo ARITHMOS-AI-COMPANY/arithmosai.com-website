@@ -1,4 +1,7 @@
-
+// app/page.tsx
+// IP-safe public site copy: avoids “token/tokenization” language.
+// Uses dark deep-tech hero, subtle animated data-flow SVG, cards, hover effects, and a credibility logo bar.
+// (Optional) For best typography, add Inter/Space Grotesk via next/font in app/layout.tsx later.
 
 export default function Home() {
   return (
